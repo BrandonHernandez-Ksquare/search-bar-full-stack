@@ -1,0 +1,157 @@
+{
+    "videogames": [
+        {
+            "title": "Super Mario 64",
+            "releaseYear": 1996,
+            "developer": "Nintendo EAD",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg",
+            "rate": 9.2
+        },
+        {
+            "title": "The Legend of Zelda: Ocarina of Time",
+            "releaseYear": 1998,
+            "developer": "Nintendo EAD",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg",
+            "rate": 9.3
+        },
+        {
+            "title": "Super Smash Bros. Melee",
+            "releaseYear": 2001,
+            "developer": "HAL Laboratory",
+            "imageUrl": "https://m.media-amazon.com/images/I/51XFaCPaPhL._SY445_.jpg",
+            "rate": 8.7
+        },
+        {
+            "title": "Metroid Prime",
+            "releaseYear": 2002,
+            "developer": "Retro Studios",
+            "imageUrl": "https://m.media-amazon.com/images/I/51EPQ9V9XGL._SY445_.jpg",
+            "rate": 9.1
+        },
+        {
+            "title": "Shadow of the Colossus",
+            "releaseYear": 2005,
+            "developer": "Team Ico",
+            "imageUrl": "https://m.media-amazon.com/images/I/51pxigWIhNL._SX425_.jpg",
+            "rate": 9.7
+        },
+        {
+            "title": "The Elder Scrolls IV: Oblivion",
+            "releaseYear": 2006,
+            "developer": "Bethesda Game Studios",
+            "imageUrl": "https://m.media-amazon.com/images/I/91D3fEbMhwL._SX385_.jpg",
+            "rate": 9.3
+        },
+        {
+            "title": "BioShock",
+            "releaseYear": 2007,
+            "developer": "2K Boston/2K Australia",
+            "imageUrl": "https://m.media-amazon.com/images/I/91mYqzGOskL._SY445_.jpg",
+            "rate": 9.1
+        },
+        {
+            "title": "Portal",
+            "releaseYear": 2007,
+            "developer": "Valve Corporation",
+            "imageUrl": "https://vgboxart.com/boxes/PC/12994-portal-full.jpg?t=1197001752",
+            "rate": 9.2
+        },
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "releaseYear": 2017,
+            "developer": "Nintendo EPD",
+            "imageUrl": "https://m.media-amazon.com/images/I/81o8tnkKkkL._AC_SY606_.jpg",
+            "rate": 9.5
+          },
+          {
+            "title": "Final Fantasy VII",
+            "releaseYear": 1997,
+            "developer": "Square",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg",
+            "rate": 9.2
+          },
+          {
+            "title": "Chrono Trigger",
+            "releaseYear": 1995,
+            "developer": "Square",
+            "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/235b565e-f08c-40bd-8ac1-cbe834e3c36d/df0tbl3-c44c66df-a094-4c52-8172-62b32a5dd7ac.jpg/v1/fill/w_1280,h_899,q_75,strp/chrono_trigger_snes_cover_by_rocklite_df0tbl3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMjM1YjU2NWUtZjA4Yy00MGJkLThhYzEtY2JlODM0ZTNjMzZkXC9kZjB0YmwzLWM0NGM2NmRmLWEwOTQtNGM1Mi04MTcyLTYyYjMyYTVkZDdhYy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.f8_NO7Bj5ZeZwfjHm-pP0yogAi4wQmZJQt7FgpebMhw",
+            "rate": 9.3
+          },
+          {
+            "title": "Resident Evil 4",
+            "releaseYear": 2005,
+            "developer": "Capcom",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ftnFecIDL._SX425_.jpg",
+            "rate": 9.2
+          },
+          {
+            "title": "Monster Hunter: World",
+            "releaseYear": 2018,
+            "developer": "Capcom",
+            "imageUrl": "https://m.media-amazon.com/images/I/91N71r5PyML._AC_SX679_.jpg",
+            "rate": 9.1
+          },
+          {
+            "title": "Dark Souls",
+            "releaseYear": 2011,
+            "developer": "FromSoftware",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Gltq4vOfL._AC_.jpg",
+            "rate": 9.5
+          },
+          {
+            "title": "Bloodborne",
+            "releaseYear": 2015,
+            "developer": "FromSoftware",
+            "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_793818-MLA44445204348_122020-O.webp",
+            "rate": 9.4
+          },
+      {
+        "title": "The Last of Us",
+        "releaseYear": 2013,
+        "developer": "Naughty Dog",
+        "imageUrl": "https://m.media-amazon.com/images/I/A1dXfW1yPNL._AC_SX522_.jpg",
+        "rate": 9.2
+      },
+      {
+        "title": "Dark Souls II",
+        "releaseYear": 2014,
+        "developer": "From Software",
+        "imageUrl": "https://m.media-amazon.com/images/I/916Y7jMo5cL._AC_SY606_.jpg",
+        "rate": 8.4
+      },
+      {
+        "title": "Elden Ring",
+        "releaseYear": 2022,
+        "developer": "From Software",
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_698579-MLA51178347605_082022-O.webp",
+        "rate": 9.5
+      },
+      {
+        "title": "Sekiro: Shadows Die Twice",
+        "releaseYear": 2019,
+        "developer": "From Software",
+        "imageUrl": "https://m.media-amazon.com/images/I/81DK-nYLmLL._AC_SX679_.jpg",
+        "rate": 9.1
+      },
+      {
+        "title": "Dark Souls III",
+        "releaseYear": 2016,
+        "developer": "From Software",
+        "imageUrl": "https://m.media-amazon.com/images/I/718JMRijkCL._AC_SX425_.jpg",
+        "rate": 8.9
+      },
+      {
+        "title": "NieR: Automata",
+        "releaseYear": 2017,
+        "developer": "PlatinumGames",
+        "imageUrl": "https://m.media-amazon.com/images/I/91LFcSHALdL._AC_SX522_.jpg",
+        "rate": 8.8
+      }
+
+
+
+
+
+
+    ]
+}
