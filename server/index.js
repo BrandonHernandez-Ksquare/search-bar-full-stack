@@ -20,10 +20,9 @@ app.get('/video-games', (req, res) => {
     
     const filteredVideoGames = videogames.videogames.filter(({title, releaseYear, developer}) => 
         title.toLowerCase().includes(search) 
-        || releaseYear.includes(search) 
-        || developer.toLowerCase().includes(search)
+        // || releaseYear.includes(search) 
+        // || developer.toLowerCase().includes(search)
         );
-    
 
     res
         .status(200)
